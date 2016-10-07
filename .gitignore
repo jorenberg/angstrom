@@ -1,0 +1,12 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+# Thumbnails
+._*
+*.sublime-workspace
+*.log
+*.temp
+node_modules/
+npm-debug.log
+.sass-cache/
+*.css.map
