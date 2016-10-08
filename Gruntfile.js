@@ -83,3 +83,4 @@ var whoosh  = chalk.yellow;
 // ~~~~~~~~~~~~~~~~
 var distDir = './dist';
 var pkg     = require('./package.json');
+var banner  = ['/*!', pkg.name, pkg.version, '*/\n'].join(' ');
