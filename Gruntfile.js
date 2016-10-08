@@ -22,3 +22,6 @@
  * --/The Heart of Build + Test System/-- of "Ångström®".
  * ____________________________________________________________________
  */
+
+// # Usage: $ node -v
+// # Usage: $ npm -v
