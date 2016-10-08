@@ -67,3 +67,11 @@ var path  = require('path');
  */
 var SERVER_PORT     = 9000;
 var LIVERELOAD_PORT = 35729;
+
+
+
+// Default color defined.
+var noop    = chalk.red;
+var yeep    = chalk.green;
+var okay    = chalk.blue;
+var whoosh  = chalk.yellow;
