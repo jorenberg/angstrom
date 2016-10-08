@@ -16,3 +16,5 @@
 // Find the first file matching a given pattern in,
 // the current directory or the nearest ancestor directory.
 var findup = require('findup-sync');
+// Export version from 'package.json' after finding it.
+module.exports = require(findup('package.json', {cwd: __dirname })).version;
