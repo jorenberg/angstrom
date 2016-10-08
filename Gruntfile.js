@@ -78,3 +78,7 @@ var whoosh  = chalk.yellow;
 
 // ./config/rules -> All rules defined.
 // ./config/tasks -> All task defined.
+
+// Global variables
+// ~~~~~~~~~~~~~~~~
+var distDir = './dist';
