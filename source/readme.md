@@ -22,3 +22,5 @@ angstrom/
       └── examples/
 ```
 Ångström® is developed by using Sass + Compass + Ruby and build with Node.js® + Grunt & it's modules.
+
+### Sass [![Gem Version](https://badge.fury.io/rb/sass.png)](https://rubygems.org/gems/sass)
