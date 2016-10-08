@@ -93,3 +93,6 @@ var umdOptions = {
 
 // Version bump(s) ---->
 var VERSIONS = ['patch', 'minor', 'major'];
+
+// load required Node module.
+var fs       = require('fs');
