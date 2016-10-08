@@ -41,3 +41,6 @@ This task requires you to have [Ruby](http://www.ruby-lang.org/en/downloads/), [
 A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
 
 Ruby is a language of careful balance. Its creator, [Yukihiro “Matz” Matsumoto](http://www.rubyist.net/~matz/), blended parts of his favorite languages (Perl, Smalltalk, Eiffel, Ada, and Lisp) to form a new language that balanced functional programming with imperative programming.
+
+### Node.js®
+Node.js® is a JavaScript runtime built on Chrome's [V8 JavaScript engine](https://developers.google.com/v8/). Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, [npm](https://www.npmjs.com/), is the largest ecosystem of open source libraries in the world.
