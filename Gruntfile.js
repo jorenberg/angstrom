@@ -56,3 +56,5 @@ var path  = require('path');
 // ----------------------------------------------------------------------------
 // If everything is successfully build and pass the testing,
 // We have to throw it to — GitHub's gh-pages.
+// ----------------------------------------------------------------------------
+// 5. Task for "Releases", using "grunt-bump" from master branch.
