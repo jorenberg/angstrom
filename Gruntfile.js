@@ -98,3 +98,5 @@ var VERSIONS = ['patch', 'minor', 'major'];
 var fs       = require('fs');
 var message  = 'Angstrom — supported under Mac OS and Linux only!';
 var isWin    = (process.platform === 'win32');
+// Pass encoding, utf8, so `readFileSync` will return a string instead of a buffer.
+var settings = fs.readFileSync('./source/core/scss/settings.json', 'utf8');
