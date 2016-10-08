@@ -82,3 +82,4 @@ var whoosh  = chalk.yellow;
 // Global variables
 // ~~~~~~~~~~~~~~~~
 var distDir = './dist';
+var pkg     = require('./package.json');
