@@ -33,3 +33,7 @@
 // main module.
 // @require   : grunt
 // @require   : grunt-cli
+
+
+// Invoking strict mode.
+"use strict";
