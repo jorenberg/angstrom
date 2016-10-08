@@ -47,3 +47,10 @@ var path  = require('path');
 // Note: To import project metadata into the -/Grunt/- config.
 // ~~^~~
 // @require   : package.json
+
+// Grunt Task(s):--------------------------------------------------------------
+// 1. Task for "Linter" - HTML, SCSS, CSS, CoffeeScript, and JavaScript,
+// 2. Task for "Minifier" - HTML + CSS, and JavaScript,
+// 3. Task for "Clean/Copy files and folders",
+// 4. Task for "Travis CI", using ".travis.yml" from root, and
+// ----------------------------------------------------------------------------
