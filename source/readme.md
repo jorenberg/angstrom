@@ -29,3 +29,5 @@ It's translated to well-formatted, standard CSS using the command line tool or a
 
 Sass has two syntaxes. The new main syntax (as of Sass 3) is known as "SCSS" (for "Sassy CSS"), and is a superset of CSS's syntax.
 This means that every valid CSS stylesheet is valid SCSS as well. SCSS files use the extension `.scss`.
+
+Sass was envisioned by [Hampton Catlin](http://www.hamptoncatlin.com)(@hcatlin), [Natalie Weizenbaum](https://twitter.com/nex3) is the primary developer and architect of Sass, and [Chris Eppstein](http://twitter.com/chriseppstein) is a core contributor to Sass and the creator of [Compass](http://compass-style.org/).
