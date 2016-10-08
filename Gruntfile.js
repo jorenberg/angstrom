@@ -43,3 +43,7 @@ var chalk = require('chalk');
 // load required Node modules.
 var os    = require('os');
 var path  = require('path');
+
+// Note: To import project metadata into the -/Grunt/- config.
+// ~~^~~
+// @require   : package.json
