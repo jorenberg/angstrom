@@ -58,3 +58,12 @@ var path  = require('path');
 // We have to throw it to — GitHub's gh-pages.
 // ----------------------------------------------------------------------------
 // 5. Task for "Releases", using "grunt-bump" from master branch.
+
+
+
+/* ---------------------------------------------|
+ * Settings for Build System.                   |
+ * _____________________________________________|
+ */
+var SERVER_PORT     = 9000;
+var LIVERELOAD_PORT = 35729;
