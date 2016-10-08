@@ -54,3 +54,5 @@ var path  = require('path');
 // 3. Task for "Clean/Copy files and folders",
 // 4. Task for "Travis CI", using ".travis.yml" from root, and
 // ----------------------------------------------------------------------------
+// If everything is successfully build and pass the testing,
+// We have to throw it to — GitHub's gh-pages.
