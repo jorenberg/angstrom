@@ -47,3 +47,6 @@ Node.js® is a JavaScript runtime built on Chrome's [V8 JavaScript engine](https
 
 ### npm
 [npm](https://github.com/npm) is the package manager for Node.js. It was created in 2009 as an open source project to help JavaScript developers easily share packaged modules of code. The npm Registry is a public collection of packages of open-source code for Node.js, front-end web apps, mobile apps, robots, routers, and countless other needs of the JavaScript community.
+
+### Grunt
+The JavaScript Task Runner — In one word: automation. The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc, the easier your job becomes.
