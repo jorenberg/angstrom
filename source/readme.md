@@ -44,3 +44,6 @@ Ruby is a language of careful balance. Its creator, [Yukihiro “Matz” Matsumo
 
 ### Node.js®
 Node.js® is a JavaScript runtime built on Chrome's [V8 JavaScript engine](https://developers.google.com/v8/). Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, [npm](https://www.npmjs.com/), is the largest ecosystem of open source libraries in the world.
+
+### npm
+[npm](https://github.com/npm) is the package manager for Node.js. It was created in 2009 as an open source project to help JavaScript developers easily share packaged modules of code. The npm Registry is a public collection of packages of open-source code for Node.js, front-end web apps, mobile apps, robots, routers, and countless other needs of the JavaScript community.
