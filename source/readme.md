@@ -21,3 +21,4 @@ angstrom/
 └── docs/
       └── examples/
 ```
+Ångström® is developed by using Sass + Compass + Ruby and build with Node.js® + Grunt & it's modules.
