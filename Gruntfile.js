@@ -90,3 +90,6 @@ var umdOptions = {
   exports: 'Angstrom',
   namespace: 'Angstrom'
 };
+
+// Version bump(s) ---->
+var VERSIONS = ['patch', 'minor', 'major'];
