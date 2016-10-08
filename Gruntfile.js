@@ -40,3 +40,4 @@
 
 // load required NPM modules.
 var chalk = require('chalk');
+var os    = require('os');
