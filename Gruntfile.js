@@ -26,3 +26,10 @@
 // # Usage: $ node -v
 // # Usage: $ npm -v
 // # Usage: $ grunt -version
+
+// =========================
+// Grunt Module(s) Required.
+// =========================
+// main module.
+// @require   : grunt
+// @require   : grunt-cli
