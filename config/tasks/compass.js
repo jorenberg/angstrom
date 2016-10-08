@@ -22,3 +22,6 @@
  * Copyright © 2003 – 2016 Apple Inc. All rights reserved.
  * ______________________________________________________________
  */
+
+// Invoking strict mode.
+"use strict";
