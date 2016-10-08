@@ -97,3 +97,4 @@ var VERSIONS = ['patch', 'minor', 'major'];
 // load required Node module.
 var fs       = require('fs');
 var message  = 'Angstrom — supported under Mac OS and Linux only!';
+var isWin    = (process.platform === 'win32');
