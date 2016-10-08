@@ -12,3 +12,7 @@
  * @require   : NPM
  * ____________________________________________________________________
  */
+
+// Find the first file matching a given pattern in,
+// the current directory or the nearest ancestor directory.
+var findup = require('findup-sync');
