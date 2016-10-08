@@ -75,3 +75,6 @@ var noop    = chalk.red;
 var yeep    = chalk.green;
 var okay    = chalk.blue;
 var whoosh  = chalk.yellow;
+
+// ./config/rules -> All rules defined.
+// ./config/tasks -> All task defined.
