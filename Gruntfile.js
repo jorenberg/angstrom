@@ -153,3 +153,4 @@ module.exports = function(grunt) {
   
   // Project configuration for Ångström® Build.
   grunt.initConfig({
+    pkg: grunt.file.readJSON('package.json'), /* reading 'package.json' for sync package(s) updates, mainly. */
