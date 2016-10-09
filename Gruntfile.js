@@ -106,3 +106,8 @@ var hasStrictMode = (function() {
   "use strict";
   return this === undefined;
 }());
+
+// To check development mode.
+var isDevMode = function() {
+  return process.env.NODE_ENV == 'development';
+};
