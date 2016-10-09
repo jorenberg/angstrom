@@ -21,3 +21,6 @@
 
 // Invoking strict mode.
 "use strict";
+
+// load required NPM modules.
+var chalk     = require('chalk');
