@@ -119,3 +119,14 @@ function isProdMode() {
 
 // Defined root path to get source files.
 var rootPath = './';
+
+// ----------------------------------------------------------------------------
+// Defined 'config + tasks' path to get the files.
+// ----------------------------------------------------------------------------
+var coffeePath    = require(rootPath + 'config/tasks/coffee.js');
+var compassPath   = require(rootPath + 'config/tasks/compass.js');
+var concatPath    = require(rootPath + 'config/tasks/concat.js');
+var copyPath      = require(rootPath + 'config/tasks/copy.js');
+var docsPath      = require(rootPath + 'config/tasks/docs.js');
+var validPath     = require(rootPath + 'config/tasks/valid.js');
+// ----------------------------------------------------------------------------
