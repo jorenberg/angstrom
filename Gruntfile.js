@@ -116,3 +116,6 @@ var isDevMode = function() {
 function isProdMode() {
   return process.env.NODE_ENV == 'production';
 };
+
+// Defined root path to get source files.
+var rootPath = './';
