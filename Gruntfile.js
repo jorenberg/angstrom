@@ -130,3 +130,6 @@ var copyPath      = require(rootPath + 'config/tasks/copy.js');
 var docsPath      = require(rootPath + 'config/tasks/docs.js');
 var validPath     = require(rootPath + 'config/tasks/valid.js');
 // ----------------------------------------------------------------------------
+// All Grunt Operations Defined...  | 09/Oct/2016
+// ----------------------------------------------------------------------------
+module.exports = function(grunt) {
