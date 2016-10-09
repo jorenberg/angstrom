@@ -32,3 +32,10 @@ var chalk     = require('chalk');
 // Default color defined.
 var noop      = chalk.red;
 var yeep      = chalk.green;
+
+// ToDo:---------------------------------------------
+// 1. example directory creation,
+// 2. to import configurations from 'settings.json',
+// 3. file creation for html + css + script, and
+// 4. to export as a module to grunt.
+// ---------------------------------------------------
