@@ -29,3 +29,6 @@ var fs        = require('fs');
 var path      = require('path');
 // load required NPM modules.
 var chalk     = require('chalk');
+// Default color defined.
+var noop      = chalk.red;
+var yeep      = chalk.green;
