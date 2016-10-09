@@ -26,3 +26,4 @@
 
 // load required Node modules.
 var fs        = require('fs');
+var path      = require('path');
