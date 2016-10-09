@@ -150,3 +150,6 @@ module.exports = function(grunt) {
   // 2. load-grunt-tasks
   // Load multiple grunt tasks using globbing patterns.
   require('load-grunt-tasks')(grunt, {scope: ['devDependencies', 'dependencies']});
+  
+  // Project configuration for Ångström® Build.
+  grunt.initConfig({
