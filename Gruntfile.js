@@ -111,3 +111,8 @@ var hasStrictMode = (function() {
 var isDevMode = function() {
   return process.env.NODE_ENV == 'development';
 };
+
+// To check production mode.
+function isProdMode() {
+  return process.env.NODE_ENV == 'production';
+};
