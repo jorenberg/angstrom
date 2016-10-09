@@ -22,3 +22,7 @@
 
 // Invoking strict mode.
 "use strict";
+
+
+// load required Node modules.
+var fs        = require('fs');
