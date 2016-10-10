@@ -154,3 +154,17 @@ module.exports = function(grunt) {
   // Project configuration for Ångström® Build.
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'), /* reading 'package.json' for sync package(s) updates, mainly. */
+    
+    // ---------------------------------------------------------------------------|
+    // Task(s) for SEED Building System ||                                        |
+    // -----------------------------------                                        |
+    // 1. Assembly --> HTML - Lint + Minify                                       |
+    // 2. Sass + Compass Build                                                    |
+    // 3. CSS Lint + Minify                                                       |
+    // 4. CoffeeScript Build + Lint                                               |
+    // 5. JavaScript Lint + Concatenation + Minify                                |
+    // 6. Cleaning of temporary files or directories                              |
+    // 7. Localhost server + watch                                                |
+    // 8. Development dependencies updates                                        |
+    // 9. Release(s) with version updates                                         |
+    // ---------------------------------------------------------------------------|
