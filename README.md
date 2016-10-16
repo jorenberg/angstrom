@@ -10,3 +10,5 @@ This, project is a spun-off of NobelDB, right. It is a semantic, modular, and mo
 
 ### What's inside?
 A lot of stuff. Seriously, a lot of stuff. Check them out in the file browser above and see what components may mesh up with you. I have written some class(s) to work for responsiveness and to work on the principle of progressive enhancement. All Ångström® is build for every layout, whatever in the daily use by the help of Sass and JavaScript.
+
+<b>Note</b>: Fork it, remove what you don't use, and build on what you do use.
