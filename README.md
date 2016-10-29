@@ -26,3 +26,4 @@ angstrom/
     ├── angstrom.js
     └── angstrom.min.js
 ```
+<b>Note</b>: As in provided distribution of — CSS and JavaScript (`angstrom.*`), as well as compiled and minified CSS and JavaScript (`angstrom.min.*`). CSS [source maps](https://developer.chrome.com/devtools/docs/css-preprocessors) (`angstrom.*.map`) are available for use with certain browser's developer tools.
