@@ -30,3 +30,9 @@ angstrom/
 
 ### Documentation
 Ångström's documentation, included in this repo in to the root directory, is built with [Grunt](http://gruntjs.com/) and publicly hosted on GitHub Pages at <https://iamprabhat.github.io/angstrom/>. <i>The docs may also be run locally.</i>
+
+### Running documentation locally
+1. Run through the [tooling setup](https://github.com/iamprabhat/angstrom/blob/master/BUILDING.md#tooling-setup) to install `Node.js® + NPM` and other Ruby dependencies `Compass`.
+2. Run `grunt` (or a specific set of Grunt tasks) to rebuild distributed CSS and JavaScript files, as well as our docs assets.
+3. From the root `./` directory, run `$ grunt serve` in to the command line.
+4. Open <http://localhost:9000> in your browser, and voilà.
