@@ -27,3 +27,6 @@ angstrom/
     └── angstrom.min.js
 ```
 <b>Note</b>: As in provided distribution of — CSS and JavaScript (`angstrom.*`), as well as compiled and minified CSS and JavaScript (`angstrom.min.*`). CSS [source maps](https://developer.chrome.com/devtools/docs/css-preprocessors) (`angstrom.*.map`) are available for use with certain browser's developer tools.
+
+### Documentation
+Ångström's documentation, included in this repo in to the root directory, is built with [Grunt](http://gruntjs.com/) and publicly hosted on GitHub Pages at <https://iamprabhat.github.io/angstrom/>. <i>The docs may also be run locally.</i>
